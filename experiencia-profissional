@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experiências de Bruno</title>
+    <link rel="stylesheet" href="/css/generalStyle.css">
+</head>
+<body>
+
+<hr>
+    <h3><i>Experiências profissionais</i></h3>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Data</th>
+                <th>Função</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Mai de 2022 - Set de 2022 · 5 meses</td>
+                <td>Estagiário de DBA pela Procenge</td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <h3>Meus conhecimentos</h3>
+    <ul type="circle">
+        <li>Python</li>
+        <li>Linguagem C</li>
+        <li>Linux</li>
+        <li>Redes de Computadores</li>
+        <li>Conceitos fundamentais de cibersegurança</li>
+        <li>Web Hacking</li>
+        <li>Webscraping</li>
+    </ul>
+    <hr>
+    <h3>Cursos Complementares</h3>
+    <ul type="circle">
+        <li>Cisco: Conceitos Básicos de Redes</li>
+        <li>Cisco: Introdução à Cibersegurança</li>
+        <li>Cisco: Dispositivos de Rede e Configuração Inicial</li>
+        <li>Técnicas de invasão (TDI)</li>
+    </ul>
+    
+
+
+
+</body>
+</html>
