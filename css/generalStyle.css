@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&display=swap);
+
+body{
+    background-color: #222831;
+    font-family: "Inter";
+}
+
+/* Títulos */
+h1, h2, h3{
+    color: #76ABAE;
+}
+
+/* Parágrafos e rótulos */
+p, label{
+    color: #EEEEEE;
+}
+
+/* Links */
+a{
+    color: #5ecadd;
+}
+
+/* Tabelas */
+table, th, td{
+    border: 1px solid #EEEEEE;
+    border-width: 3px;
+    width: ;
+    border-collapse: collapse;
+    padding: 5px;
+    
+}
+
+thead{
+    color: #76ABAE;
+}
+
+tbody{
+    color: #EEEEEE;
+}
+
+/* Listas */
+ul,li {
+    color: #EEEEEE;
+}
+
+/* Linha horizontal */
+hr{
+    border-style:dotted;
+    border-width: 3px;
+    width: 15%;
+    color:rgb(182, 107, 67);
+
+}
+
+/* Estilo para classes */
+.texto-vermelho{
+    color: red;
+    text-align: center;
+}
+
+/* Estilo para ID's */
+#texto-unico{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
